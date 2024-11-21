@@ -2,7 +2,7 @@
 
 This repo documents the development of a fine-tuned LLM whose purpose is to generate the most accurate SQL queries possible.
 
-SQLSensei can confidently and correctly generate basic to intermediate SQL queries when provided the appropriate context and table information. However, correctly outputting advanced queries that are present in other datasets, as seen in Spider 2.0, is yet to be explored.
+SQLSensei can confidently and correctly generate basic to intermediate SQL queries when provided the appropriate context and table information. However, correctly generating advanced queries, such as those found in the Spider 2.0 dataset, remains a challenge for this model.
 
 ### Features
 - 91% Testing Accuracy (ROGUE Metrics)
