@@ -8,8 +8,8 @@ This repo documents the development of a fine-tuned LLM whose purpose is to gene
 
 ### Datasets
 - All available on Hugging Face
-  - https://huggingface.co/datasets/b-mc2/sql-create-context
   - https://huggingface.co/datasets/knowrohit07/know_sql
+  - https://huggingface.co/datasets/b-mc2/sql-create-context
   - https://huggingface.co/datasets/Clinton/Text-to-sql-v1
 
 ### Module Dependencies
