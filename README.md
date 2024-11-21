@@ -26,4 +26,4 @@ SQLSensei can confidently and correctly generate basic to intermediate SQL queri
 - ~4 hours training time (GeForce GTX 1060)
 
 ### Implementation
-- Python (Jupyter Notebook, Google Colab)
+- Python (Jupyter Notebook, Google Colab compatible)
