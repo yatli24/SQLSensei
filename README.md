@@ -23,4 +23,4 @@ This repo documents the development of a fine-tuned LLM whose purpose is to gene
 - wandb API Token
 
 ### Implementation
-- Python (Jupyter Notebook)
+- Python (Jupyter Notebook, Google Colab)
