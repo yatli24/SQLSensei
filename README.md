@@ -14,7 +14,7 @@ SQLSensei can confidently and correctly generate basic to intermediate SQL queri
   - https://huggingface.co/datasets/b-mc2/sql-create-context
   - https://huggingface.co/datasets/Clinton/Text-to-sql-v1
 
-### Module Dependencies
+### Dependencies
 - PyTorch
 - Transformers
 - Evaluate
