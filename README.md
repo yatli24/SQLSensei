@@ -4,7 +4,7 @@ This repo documents the development of a fine-tuned LLM whose purpose is to gene
 
 ### Features
 - 91% Testing Accuracy (ROGUE Metrics)
-- Trained on over 118000 labeled SQL queries using T5 pre-trained model
+- Trained on over 118000 labeled SQL queries using T5
 
 ### Datasets
 - All available on Hugging Face
