@@ -1,6 +1,7 @@
 # SQLSensei - Your Go-To SQL assistant
 
 This repo documents the development of a fine-tuned LLM whose purpose is to generate the most accurate SQL queries possible.
+
 SQLSensei can confidently and correctly generate basic to intermediate SQL queries when provided the appropriate context and table information. However, running advanced queries that are present in other datasets (Spider 2.0) on this model is yet to be explored.
 
 ### Features
