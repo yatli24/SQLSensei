@@ -9,7 +9,7 @@ SQLSensei can confidently and correctly generate basic to intermediate SQL queri
 
 ### Features
 - 90% Testing Accuracy (ROGUE Metrics)
-- Trained on over 118000 labeled SQL queries using T5
+- Trained on over 118000 labeled SQL examples
 
 ### Datasets
 - All available on Hugging Face
