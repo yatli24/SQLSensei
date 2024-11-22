@@ -26,7 +26,7 @@ SQLSensei can confidently and correctly generate basic to intermediate SQL queri
 ### Requirements for Training
 - Hugging Face API Token
 - wandb API Token
-- ~4 hours training time (GeForce GTX 1060)
+- ~4 hours training time (NVIDIA GeForce GTX 1060)
 
 ### Implementation
 - Python (Jupyter Notebook, Google Colab compatible)
