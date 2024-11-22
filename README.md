@@ -7,7 +7,7 @@ The goal was to improve the model that the existing study had, as it provided an
 SQLSensei can confidently and correctly generate basic to intermediate SQL queries when provided with the appropriate context and table information. However, correctly generating advanced queries, such as those found in the Spider 2.0 dataset, remains a challenge for the model. SQLSensei was developed using an NVIDIA GTX 1060 GPU, which unfortunately limited the efficiency of training with larger datasets, more epochs, and higher performance hyperparameters.
 
 ### Repo Contents
-- SQLSensei.inbpy - Source code for SQLSensei
+- SQLSensei.ipynb - Source code for SQLSensei
 
 ### Features
 - 90% Testing Accuracy (ROGUE Metrics)
