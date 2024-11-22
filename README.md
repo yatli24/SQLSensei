@@ -8,6 +8,7 @@ SQLSensei can confidently and correctly generate basic to intermediate SQL queri
 
 ### Repo Contents
 - SQLSensei.ipynb - Source code for SQLSensei
+- SQLSensei.pdf - Detailed report with methods and motivation
 
 ### Features
 - 90% Testing Accuracy (ROGUE Metrics)
