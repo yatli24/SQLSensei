@@ -8,7 +8,7 @@ SQLSensei can confidently and correctly generate basic to intermediate SQL queri
 - SQLSensei.inbpy - Source code for SQLSensei
 
 ### Features
-- 91% Testing Accuracy (ROGUE Metrics)
+- 90% Testing Accuracy (ROGUE Metrics)
 - Trained on over 118000 labeled SQL queries using T5
 
 ### Datasets
