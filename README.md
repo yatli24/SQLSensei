@@ -1,6 +1,6 @@
 # SQLSensei - Your Go-To SQL assistant
 
-This repo documents the development of a fine-tuned LLM whose purpose is to generate the most accurate SQL queries possible, referencing an existing study available for viewing here: https://huggingface.co/cssupport/t5-small-awesome-text-to-sql
+This repo documents the development of a fine-tuned LLM whose purpose is to generate the most accurate SQL queries possible, using convenient, budget friendly computational resources. This project references an existing study available for viewing here: https://huggingface.co/cssupport/t5-small-awesome-text-to-sql
 
 The goal was to improve the model that the existing study had, as it provided an outline to get started with the T5 small model.
 
