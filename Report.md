@@ -5,7 +5,7 @@ Transformer-based models have proven to be powerful tools in machine learning. F
 I believe that small models have the potential to accurately generate SQL queries, offering a more efficient solution without relying on the extensive computational resources needed for larger models. 
 
 # Task
-Using the Hugging Face API, a small pre-trained T5 model and tokenizer were fine-tuned on a dataset of natural language-to-SQL pairs. The goal was to minimize the model's loss on validation and test datasets.
+Using the Hugging Face API, a small pre-trained T5 model and tokenizer were fine-tuned on a dataset of natural language to SQL pairs. The goal was to minimize the model's loss on validation and test datasets.
 
 # Data Preprocessing
 Some preprocessing was conducted to ensure compatibility with the T5 architecture. The dataset was cleaned, split, formatted, and then tokenized. While cleaning, shuffling was done to ensure variability of the training data. 
