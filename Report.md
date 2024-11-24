@@ -2,7 +2,7 @@
 Transformer-based models have proven to be powerful tools in machine learning. Fine-tuning these models enables them to adapt to custom datasets and improve performance for specific tasks. This project focuses on the fine-tuning of an existing model, provided by a previous study to generate accurate SQL queries, with a focus on computational resource convenience and performance optimization.
 
 # Motivation
-I believe that small models have the potential to accurately generate SQL queries, offering a more efficient solution without relying on the extensive computational resources needed for larger models. 
+I believe that small-scale LLMs have the potential to accurately generate SQL queries, offering a more efficient solution without relying on the extensive computational resources needed for larger models. 
 
 # Task
 Using the Hugging Face API, a small pre-trained T5 model and tokenizer were fine-tuned on a dataset of natural language to SQL pairs. The goal was to minimize the model's loss on validation and test datasets.
