@@ -2,8 +2,6 @@
 
 This repo documents the development of a fine-tuned LLM whose purpose is to generate the most accurate SQL queries possible, using convenient, budget friendly computational resources. This project lightly references an existing study available for viewing here: https://huggingface.co/cssupport/t5-small-awesome-text-to-sql
 
-The goal was to improve the model that the existing study had, as it provided an outline to get started with the T5 small model.
-
 SQLSensei can confidently and correctly generate basic to intermediate SQL queries when provided with the appropriate context and table information. However, correctly generating advanced queries, such as those found in the Spider 2.0 dataset, remains a challenge for the model. SQLSensei was developed using an NVIDIA GTX 1060 GPU, which unfortunately limited the efficiency of training with larger datasets, more epochs, and higher performance hyperparameters.
 
 ### Repo Contents
